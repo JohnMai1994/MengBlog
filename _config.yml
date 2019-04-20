@@ -8,8 +8,10 @@ permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
-plugins: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-feed
 paginate: 5
 
 navigation:
