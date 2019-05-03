@@ -1,31 +1,42 @@
-title: Meng
-description: 一个爱环境的程序猿
+sass:
+  style: compressed
 
-url: https://github.com/JohnMai1994/MengBlog
-baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "assets/img"
+    values:
+      image: true
 
-markdown: kramdown
-highlighter: rouge
-plugins: 
-  - jekyll-paginate
-  - jekyll-seo-tag
+title: Minimalism
+name: minimalism
+description: Minimalism is a jekyll theme for minimalist
+
+theme: jekyll-theme-minimalism
+remote_theme: showzeng/Minimalism
+
+
+github: https://github.com/showzeng/Minimalism
+rss: true
+
+plugins:
+  - rouge
+  - kramdown
   - jekyll-feed
-paginate: 5
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-paginate
 
-navigation:
-  - title: 主页
-    url: /index.html
-  - title: 关于我
-    url: /about
-  - title: 联系我
-    url: /contact
 
-social:
-  github: JohnMai1994
-  twitter: john_mjd64929
-  facebook: JohnMai1994
-  email: mjd64929@icloud.com
-
-google_analytics: "UA-58263416-1"
+exclude:
+  - script
+  - docs
+  - vendor
+  - Gemfile
+  - Gemfile.lock
