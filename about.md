@@ -1,14 +1,31 @@
 ---
 title: 关于
 layout: about
-reward: false
+reward: true
 ---
 
-### Minimalism
+### 大家好，这里是[Meng]
 
 ---
 
-[Minimalism] 是一款基于 [Jekyll] 为极简主义者打造的极简主题。
+稍微的介绍一下我自己，我是Meng，一个读了五年大学的伪程序猿，前两年在中国某财经大学工商管理系水水的混着日子，没什么大的理想抱负，不想考研，不想申请公务员，每天打打游戏，期末冲刺一下不至于挂科，毕业了以后也没有明确的目标会干嘛。
 
-[Minimalism]: https://github.com/showzeng/Minimalism
+然后因为是2+2+1项目（两年中国，两年加拿大，一年Coop [P.S.后来Drop了]），之后的一年半在加拿大某水卢环境系苦逼的过着日子，开始思考自己到底想干嘛？（这点很重要！）虽说这边老师上课不管你上课认不认真听课，不过这里期中期末平时作业无不跟课上的内容相关，一个不小心就很容易拿到挺低的分数，但是你兢兢业业的学着，Professor也不会特意刁难你，让你75分+左右过课程。思考了大概一年半时间，我也很“荣幸”的被[某晟]:同学洗脑，让我机缘巧合之下去旁听了一些CS（计算机科学）的课程，从此就走上了CS的不归路。
+
+再之后的一年半，只剩下很少环境的课程需要完成，然后就申请了CS Minor，开始系统性的学习基础的计算机语言，逻辑，算法等等。。可以说，一入CS深似海，以前我对于挂科没什么概念，但是当你开始学习的时候，各种奇奇怪怪的Bug，Memory Leak让你觉得你离挂科是如此的近，甚至开始怀疑人生。所以说某水卢自杀率高是有原因的。不会就死皮赖脸问TA，问到明白为止，幸好我父母给了我一个不太笨的脑子，没有问到TA不耐烦。至此，我的大学经历就写的七七八八，不算平凡，也不算出众，但比起大部分学生，总是特立独行一点。
+
+Meng我是今年六月份毕业，但是Spring Term这个学期还是会去蹭一些CS相关的课程，毕竟闲着也是闲着，而且那些课程ONLY OPEN TO CS STUDENT。
+
+对对对，最后还得感谢[某个王姓胖子]（单身！），非常感谢他教我的一些网站搭建技巧！
+
+如果你想了解更多关于我的信息或者想请我喝肥宅快乐水，欢迎添加我的微信
+
+<img src="{{ '/assets/img/mywechat.jpg' | prepend: site.baseurl }}" alt=""> 
+---
+[MengBlog] 是一款基于 [Jekyll] 为极简主义者打造的极简主题。
+
+[某个王姓胖子]: https://blog.wzydale.com/
+[Meng]: https://www.jiadong.work
+[某晟]: https://www.linkedin.com/in/shengbian/
+[MengBlog]: https://github.com/JohnMai1994/MengBlog
 [Jekyll]: https://jekyllrb.com/
