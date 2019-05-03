@@ -1,4 +1,4 @@
-# Minimalism
+# MengBlog
 
 [![Build Status](https://travis-ci.org/showzeng/Minimalism.svg?branch=master)](https://travis-ci.org/showzeng/Minimalism)
 [![Jekyll Version](https://img.shields.io/badge/Jekyll-3.8-blue.svg)](https://jekyllrb.com/)
@@ -7,7 +7,7 @@
 
 ![screenshot](./docs/screenshot.png)
 
-Minimalism 是一款基于 Jekyll 为极简主义者打造的极简主题。你可以访问 [我的博客][blog] 或者 [主题 demo][demo] 来预览一下。
+MengBlog 是一款基于 Jekyll 为极简主义者打造的极简主题。你可以访问 [我的博客][blog] 或者 [主题 demo][demo] 来预览一下。
 
 ## 特性
 
@@ -64,7 +64,7 @@ remote_theme: showzeng/Minimalism
 
 ## 致谢
 
-博客主题文章的文字颜色及部分排版受凯哥 [HenCoder] 网站的启发，打赏样式受 [写代码的猴子的博客][Jaeger] 的启发，特此感谢。
+博客主题文章的文字颜色及部分排版受凯哥 [HenCoder] & [zeng哥][Minimalism]网站的启发，打赏样式受 [写代码的猴子的博客][Jaeger] 的启发，特此感谢。
 
 文章图片查看大图由 [zooming](https://github.com/kingdido999/zooming) 提供支持，特此感谢。
 
@@ -82,13 +82,13 @@ remote_theme: showzeng/Minimalism
 
 如果主题对你有帮助，并帮你节省了一些折腾的时间，可以考虑打赏，这是对我所做工作的最大肯定。
 
-![reward.png](./docs/reward.webp)
+![reward.png](./assets/img/wechat.jpg)
 
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-[blog]: https://showzeng.itscoder.com
+[blog]: https://blog.jiadong.work
 [demo]: https://showzeng.github.io
 [license]: https://creativecommons.org/licenses/by-nc-nd/4.0/
 [wiki]: https://github.com/showzeng/Minimalism/wiki
@@ -96,3 +96,4 @@ The theme is available as open source under the terms of the [MIT License](https
 [Change Log]: https://github.com/showzeng/Minimalism/wiki/Change-Log
 [HenCoder]: https://hencoder.com/
 [Jaeger]: https://jaeger.itscoder.com/
+[Minimalism]: https://showzeng.itscoder.com/
