@@ -4,6 +4,8 @@ layout: post
 tag: Essay
 category: Essay
 ---
+Don't let the busy life make you lost your orientation
+
 
 ### 为什么写博客
 > 1. teach you the skills of blogging

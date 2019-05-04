@@ -5,6 +5,8 @@ date: '2019-05-03 21:34:00'
 tag: Markdown
 category: Markdown
 ---
+本文主要说明一些常用的 Markdown 语法及主题 Minimalism 中的渲染效果。
+
 
 # 说明
 Jekyll 默认使用 [Kramdown] 来渲染 mardown 类型文件，在 MengBlog 主题中也是使用这个默认配置，但在其渲染的基础上自定义了自己的样式，主要参考了 GitHub 的渲染风格。
