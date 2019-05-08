@@ -17,6 +17,7 @@ defaults:
 title: Meng
 name: Meng
 description: Less is More --- by Ludwig Mies van der Rohe
+baseurl: /MengBlog
 
 theme: jekyll-theme-minimalism
 remote_theme: showzeng/Minimalism
