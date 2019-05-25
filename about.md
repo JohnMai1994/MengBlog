@@ -21,6 +21,7 @@ Meng我是今年六月份毕业，但是Spring Term这个学期还是会去蹭�
 如果你想了解更多关于我的信息或者想请我喝肥宅快乐水，欢迎添加我的微信
 
 <img src="{{ '/assets/img/mywechat.jpg' | prepend: site.baseurl }}" alt=""> 
+
 ---
 [MengBlog] 是一款基于 [Jekyll] 为极简主义者打造的极简主题。
 

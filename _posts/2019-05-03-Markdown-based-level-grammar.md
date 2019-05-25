@@ -271,6 +271,19 @@ Jekyll 默认使用 [Kramdown] 来渲染 mardown 类型文件，在 MengBlog 主
 
 ![头像](https://i.ibb.co/Gp14cvf/Meng.png "我可爱吧~")
 
+#### HTML
+
+示例：
+
+```
+<img src="{{ '/assets/img/Menglogo.png' | prepend: site.baseurl }}" alt="">
+```
+
+效果：
+
+<img src="{{ '/assets/img/Menglogo.png' | prepend: site.baseurl }}" alt="">
+
+
 ### 10. 分隔符
 
 使用 ```---``` 可以显示分隔符。

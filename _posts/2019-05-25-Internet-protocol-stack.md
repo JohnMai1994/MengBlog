@@ -25,5 +25,3 @@ tags: internet
 
 
 ### 物理层
-
-![aaa](./docs/screenshot.png)
