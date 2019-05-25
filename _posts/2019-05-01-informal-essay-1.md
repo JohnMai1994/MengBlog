@@ -31,4 +31,5 @@ Don't let the busy life make you lost your orientation
 
 ---
 朋友们，做一条**有梦想的咸鱼**吧~
+![咸鱼](./assets/img/xianyu.jpg)
 <img src="{{ '/assets/img/xianyu.jpg' | prepend: site.baseurl }}" alt="">
