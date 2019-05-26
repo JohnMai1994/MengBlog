@@ -116,29 +116,6 @@ B 站的嵌入代码可以给它加个宽高，不至于那么小，如下：
 </iframe>
 ```
 
-
-
-
-### 爱奇艺
-
-<embed src="//player.video.qiyi.com/dfa6fe2093c348e79481c44ac0f3e6b6/0/0/v_19rrg5wb8o.swf-albumId=137671300-tvId=137671300-isPurchase=false-cnId=5" allowFullScreen="true" quality="high" width="100%" height="350" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
-
-使用如下：
-
-```html
-<!-- before -->
-<embed src="//player.video.qiyi.com/dfa6fe2093c348e79481c44ac0f3e6b6/0/0/v_19rrg5wb8o.swf-albumId=137671300-tvId=137671300-isPurchase=false-cnId=5"
- allowFullScreen="true" quality="high"
- width="480" height="350" align="middle"
- allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
-
-<!-- after -->
-<embed src="//player.video.qiyi.com/dfa6fe2093c348e79481c44ac0f3e6b6/0/0/v_19rrg5wb8o.swf-albumId=137671300-tvId=137671300-isPurchase=false-cnId=5"
- allowFullScreen="true" quality="high"
- width="100%" height="350" align="middle"
- allowScriptAccess="always" type="application/x-shockwave-flash">
-```
-
 总体看起来，(不用看了) Youtube 使用体验最佳，而且在使用嵌入代码之前还可以进行一些设置，可惜的是它不在『我方包围圈』，次之，国内的来看，还是要优酷的要清爽一些。当然，此外肯定还有很多其他视频平台提供分享的，使用方法都是一样的，就不一一列举了。
 
 ## 推文
