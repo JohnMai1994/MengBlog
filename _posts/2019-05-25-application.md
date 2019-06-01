@@ -2,7 +2,7 @@
 title: 网络架构-应用层
 layout: post
 category: 网络七层架构
-date: '2019-05-25 18:30:00'
+date: '2019-05-29 18:30:00'
 tags: internet
 ---
 
