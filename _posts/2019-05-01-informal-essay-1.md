@@ -6,7 +6,7 @@ category: Essay
 date: '2019-05-01 21:34:00'
 ---
 
-Don't let the busy life make you lost your orientation
+Don't let the busy life make you lost your orientation。
 
 
 ### 为什么写博客

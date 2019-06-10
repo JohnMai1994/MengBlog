@@ -1,6 +1,9 @@
 ---
 title: 使用密钥登录Linux服务器-生成SSH key
 layout: post
+date: '2019-06-01 00:30:00'
+category: Putty
+tag: ssh putty
 ---
 
 程序员平时跟Linux服务器少不了打交道，大多数Windows用户会选择

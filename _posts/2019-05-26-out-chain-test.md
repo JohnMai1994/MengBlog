@@ -2,7 +2,7 @@
 title: Markdown外链
 layout: post
 date: '2019-05-25 13:00:00'
-category: Markdown外链使用
+category: Markdown
 tag: Markdown
 ---
 
